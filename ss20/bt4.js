@@ -1,0 +1,1 @@
+confirm("ban du tuoi di tu");
